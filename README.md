@@ -9,7 +9,9 @@ Python stuff.
 - parallel processing
   - Spark
   - multi-process?
-- 
+- ETL (mk dir for this)
+  - excel, csv/tsv, json, parquet
+- Error handling (mk dir for this)
 
 ## Side projects
 - ML Pipe
