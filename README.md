@@ -15,4 +15,5 @@ Python stuff.
 
 ## Side projects
 - ML Pipe
+  - mock up design
 - JBP
