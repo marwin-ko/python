@@ -11,3 +11,6 @@ Python stuff.
   - multi-process?
 - 
 
+## Side projects
+- ML Pipe
+- JBP
