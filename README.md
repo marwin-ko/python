@@ -10,8 +10,13 @@ Python stuff.
   - Spark
   - multi-process?
 - ETL (mk dir for this)
-  - excel, csv/tsv, json, parquet
+  - excel
+  - csv/tsv
+  - json
+  - parquet
+  - API requests
 - Error handling (mk dir for this)
+
 
 ## Side projects
 - ML Pipe
