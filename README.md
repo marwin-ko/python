@@ -16,6 +16,8 @@ Python stuff.
   - parquet
   - API requests
 - Error handling (mk dir for this)
+- Random data generation
+
 
 
 ## Side projects
