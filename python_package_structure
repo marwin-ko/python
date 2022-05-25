@@ -1,0 +1,9 @@
+# top level is repo with dashes
+altimeter-valeport-lcm/
+├── altimeter_valeport_lcm
+│   ├── __init__.py
+│   ├── __main__.py
+│   ├── parser.py
+│   └── snake_case.py
+├── README.rst
+└── setup.py
