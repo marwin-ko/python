@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/50843256/how-to-create-a-shared-object-among-class-instances-in-python
+
+class C1:
+   def __init__(self, a, b):
+       self.c = a + b
+
+class C2:
+   obj1 = None
+   def __init__(self):
+      self.d = 1
+
+   @classmethod
+   def class1(cls, x, y):
+       cls.obj1 = C1(x, y)
+
+C2.class1(2, 3)
+
+obj2 = C2()
+print(obj2.obj1.c)  # Output would be 5
+obj22 = C2()
+print(obj22.obj1.c) # Output would be same as above i.e 5
